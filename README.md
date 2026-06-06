@@ -1,5 +1,6 @@
 # EX-NO-2: IMPLEMENTATION OF PLAYFAIR CIPHER
-
+## NAME:AMMINENI MOKSHASREE
+## REG.NO:2305001001
  
 
 ## AIM:
@@ -114,6 +115,7 @@ int main() {
 
 
 ## Output:
+<img width="687" height="366" alt="image" src="https://github.com/user-attachments/assets/c887c834-f240-47d5-9baa-dd9ba864550c" />
 
 
 
